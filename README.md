@@ -1,4 +1,11 @@
 # SQL-Challenge
+
+### Instructions
+A) Access Employee_SQL folder which contains (3) SQL files that can be launched on PostgreSQL.
+B) From the (3) SQL files, EmployeeSQL_Schematas and EmployeeSQL_Queries are for reference only. The run the queries, use the EmployeeSQL_complete file.
+C) The resources folder contains (6) csv files which comprise of all datasets pertaining to the Pewlett Hackard employees between 1980s and 1990s. All datasets have already been imported into the tables within the EmployeeSQL_complete file. 
+D) To run queries, use the EmployeeSQL_complete file.
+
 ## Pewlett Hackard Analysis
 
 The analysis allows reader/user to parse through hundreds of thousands of instances capturing information about past employeesat the Pewlett Hackard firm using an efficient query system developed using SQL within PostgreSQL.
